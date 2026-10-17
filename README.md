@@ -1,5 +1,5 @@
 # PHẦN MỀM TRẮC NGHIỆM TIẾNG ANH: PRONOUNS AND REFERENCING (20 CÂU HỎI)
-### TRƯỜNG CAO ĐẲNG CÔNG NGHỆ THỦ ĐỨC (TDC) - KHOA NGOẠI NGỮ
+### TRƯỜNG CAO ĐẲNG CÔNG NGHỆ THỦ ĐỨC (TDC)
 
 Ứng dụng web trắc nghiệm trực quan, hiện đại gồm 20 câu hỏi trọng tâm chuyên đề **Pronouns and Referencing** (Đại từ phản thân, tính từ sở hữu, đại từ sở hữu, đại từ thay thế one/ones, another/the other/others, đại từ tương hỗ each other...).
 

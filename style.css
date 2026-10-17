@@ -186,29 +186,11 @@ body {
   background-color: var(--border-color);
 }
 
-.brand-title-wrap {
-  display: flex;
-  flex-direction: column;
-}
-
-.brand-title-wrap h1 {
-  font-size: 1.05rem;
+.nav-brand h1 {
+  font-size: 1.15rem;
   font-weight: 800;
   color: var(--text-main);
-  line-height: 1.2;
   white-space: nowrap;
-}
-
-.brand-sub {
-  font-size: 0.72rem;
-  font-weight: 600;
-  color: var(--tdc-blue);
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-}
-
-[data-theme="dark"] .brand-sub {
-  color: #38bdf8;
 }
 
 /* Center Group: Device Switcher & Visitor Counter */
@@ -1382,12 +1364,8 @@ body {
     max-width: 130px;
   }
 
-  .brand-title-wrap h1 {
-    font-size: 0.92rem;
-  }
-
-  .brand-sub {
-    font-size: 0.65rem;
+  .nav-brand h1 {
+    font-size: 0.95rem;
   }
 
   .nav-center .device-switch-group {
